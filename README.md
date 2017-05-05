@@ -1,3 +1,6 @@
+
+![Apprenda Logo](https://github.com/mammerman/acp-reference-architecture/raw/master/resources/apprenda-logo.png)
+
 # Reference Architecture Docs for the Apprenda Cloud Platform
 
 * Summary
