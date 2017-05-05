@@ -21,7 +21,7 @@
   * Using a SAN for Storage
 * [Software](provisioning/software.md)
   * Operating Systems and Software
-* Hardware & Software Recommended Specs
+* [Hardware & Software Recommended Specs](provisioning/recommendations.md)
 * Reference Architecture Topology
   * The Entire Architecture
   * Platform Coordinator Nodes
