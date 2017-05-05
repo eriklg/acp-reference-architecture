@@ -8,7 +8,7 @@
   * Who Should Read This Reference Guide?
   * Next Steps
 * [What is the Apprenda Cloud Platform?](overview/what-is-the-apprenda-cloud-platform.md)
-* Deployment Planning
+* [Deployment Planning](planning/deployment-planning.md) 
   * Public Cloud, Private Datacenter, and Hybrid
   * Optional Infrastructure
   * A Note About Infrastructure Sizing
