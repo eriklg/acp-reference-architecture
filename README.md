@@ -22,7 +22,7 @@
 * [Software](provisioning/software.md)
   * Operating Systems and Software
 * [Hardware & Software Recommended Specs](provisioning/recommendations.md)
-* Reference Architecture Topology
+* [Reference Architecture Topology](architecture/topology-single-cloud.md)
   * The Entire Architecture
   * Platform Coordinator Nodes
   * Cache Nodes
