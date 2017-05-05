@@ -12,14 +12,14 @@
   * Public Cloud, Private Datacenter, and Hybrid
   * Optional Infrastructure
   * A Note About Infrastructure Sizing
-* Hardware
+* [Hardware](provisioning/hardware.md)
   * Machines
-    * Physical Servers vs. Virtual Machines
+    * Base Metal vs. Virtual Machines
   * Networking
     * Establishing a Private LAN for Apprenda Nodes
     * Inbound Traffic (Ingress)
   * Using a SAN for Storage
-* Software
+* [Software](provisioning/software.md)
   * Operating Systems and Software
 * Hardware & Software Recommended Specs
 * Reference Architecture Topology
