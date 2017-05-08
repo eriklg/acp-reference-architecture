@@ -29,6 +29,7 @@
   * Worker Nodes
     * Windows Machines
     * Linux Machines
+    * Docker
     * Database Servers
   * Platform Repository
   * Platform Federation Nodes - ADFS
